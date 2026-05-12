@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+theme = "PaperMod"
+title = "PaperMod"
+
+[params]
+  math = true

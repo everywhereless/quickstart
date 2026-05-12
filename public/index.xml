@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on PaperMod</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2026 15:45:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grammer</title>
+      <link>http://localhost:1313/posts/grammer/</link>
+      <pubDate>Tue, 12 May 2026 15:45:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/grammer/</guid>
+      <description>&lt;p&gt;The importance of vowels in word
+You can&amp;rsquo;t pronounce any word if there is no vowel in the word
+Like CT, it doesn&amp;rsquo;t make any sense
+But
+Cut, cat , when we add a vowel it make sense and then create a word&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fibonacci</title>
+      <link>http://localhost:1313/posts/fibonacci/</link>
+      <pubDate>Mon, 11 May 2026 13:31:56 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fibonacci/</guid>
+      <description>&lt;p&gt;$$x + 2 = 5$$
+$$x = 5 - 2$$
+$$x = 3$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
