@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://guileless-kitten-dcc403.netlify.app/"
 locale = 'en-us'
 theme = "PaperMod"
 title = "PaperMod"
