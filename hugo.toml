@@ -1,7 +1,5 @@
 baseURL = "https://quickstart.dragonized.workers.dev/"
 locale = 'en-us'
-theme = "PaperMod"
-title = "PaperMod"
+theme = "FixIt"
+title = "FixIt"
 
-[params]
-  math = true
