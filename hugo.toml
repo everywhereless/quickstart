@@ -1,5 +1,7 @@
 baseURL = "https://quickstart.dragonized.workers.dev/"
 locale = 'en-us'
+
 theme = "FixIt"
+
 title = "FixIt"
 
