@@ -1,8 +1,8 @@
 +++
-title = 'Vowels: The Backbone of Language'
+title = "Vowels: The Backbone of Language"
 date = 2026-05-12
 draft = false
-tags = ['english', 'grammar', 'pronunciation']
+categories = ["English"]
 +++
 
 Vowels **(a, e, i, o, u)** are the backbone of any word. They are essential for making syllables, ensuring clear pronunciation, and enabling fluent reading.
